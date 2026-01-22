@@ -1,0 +1,36 @@
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 900px;
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+
+.hero-content h2 {
+  margin-top: 0.75rem;
+  font-size: 1.25rem;
+  color: #3b82f6;
+}
+
+.hero-content p {
+  margin-top: 1.5rem;
+  color: #9ca3af;
+  line-height: 1.7;
+}
+
+.hero-tags {
+  display: block;
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  color: #9ca3af;
+}

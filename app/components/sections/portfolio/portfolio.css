@@ -1,0 +1,17 @@
+.portfolio-section {
+  min-height: 100vh;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.portfolio-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.portfolio-section p {
+  max-width: 700px;
+  margin: 0 auto;
+  color: #9ca3af;
+  line-height: 1.8;
+}

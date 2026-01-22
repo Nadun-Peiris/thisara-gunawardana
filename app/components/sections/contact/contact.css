@@ -1,0 +1,28 @@
+.contact-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.contact-box {
+  padding: 3rem;
+  text-align: center;
+}
+
+.contact-box h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.contact-box p {
+  color: #9ca3af;
+  margin-bottom: 0.75rem;
+}
+
+.contact-box span {
+  display: block;
+  margin-top: 1.5rem;
+  color: #9ca3af;
+}
